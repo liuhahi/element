@@ -307,6 +307,8 @@ NavMenu vertical puede ser colapsado.
 | Atributo | Descripción         | Tipo   | Valores aceptados | Por defecto |
 | -------- | ------------------- | ------ | ----------------- | ----------- |
 | index    | identificador único | string | —                 | —           |
+| show-timeout | timeout before showing a sub-menu | number | — | 300 |
+| hide-timeout | timeout before hiding a sub-menu | number | — | 300 |
 
 ### Atributos Menu-Item 
 | Atributo | Descripción         | Tipo   | Valores aceptados | Por defecto |
